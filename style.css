@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Ensures the container fits the viewport */
+    height: 100%; /* Ensures the container fits the viewport */
     width: 100%;
     overflow: hidden; /* Prevents extra space */
     background-color: blueviolet;
